@@ -2,7 +2,7 @@ Chess System em Java
 
 Projeto desenvolvido em Java com o objetivo de simular uma partida completa de xadrez, aplicando conceitos fundamentais de programação orientada a objetos, regras do jogo e lógica de movimentação das peças.
 
-📌 Sobre o Projeto
+Sobre o Projeto
 
 Este projeto implementa um sistema de xadrez totalmente funcional no terminal, incluindo:
 
@@ -32,6 +32,7 @@ Tratamento de exceções
 Organização em camadas (boardgame / chess / pieces)
 
 Estrutura do Projeto
+
 src/
  ├── boardgame
  │   ├── Board
@@ -51,6 +52,7 @@ src/
      ├── Bishop(Bispo)
      ├── Knight(cavalo)
      └── Pawn(peao)
+
 Funcionalidades
 
 Movimentos válidos por peça
